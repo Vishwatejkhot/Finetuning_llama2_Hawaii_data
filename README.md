@@ -17,9 +17,7 @@ The fine-tuning is done using LoRA (Low-Rank Adaptation) and 4-bit quantization 
 📂 Project Structure
 Finetuning_llama2_Hawaii_data/
 ├── README.md
-├── Finetuning_personal_data.ipynb   
-├── data/
-│   └── hawaii_wf_2.txt              
+├── Finetuning_personal_data.ipynb                
 └── finetunedModel/     
 
 🚀 How the Fine-Tuning Works 
